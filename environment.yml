@@ -1,0 +1,6 @@
+name: nonpoisson_nznshm2022
+channels:
+    - conda-forge
+dependencies:
+    - python=3.10.12
+    - openquake.engine=3.16.4
